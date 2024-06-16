@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WATCHING The Elite Crib with Tony","LISTENING to the yaps of the tenants in The Elite Crib"];
+const statusMessages = ["Watching The Elite Crib with Tony","NOT simping","Listening to the yaps of the tenants in The Elite Crib"];
 
 
 let currentIndex = 0;
